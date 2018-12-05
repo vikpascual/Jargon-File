@@ -1,0 +1,36 @@
+/* Creado por Víctor Pascual Muñoz */
+@charset "utf-8";
+body {
+  background-color: #C6E0EC;
+  font-family: sans-serif;
+}
+h3 {
+    background-color: #79B8D2;
+    color: white;
+    font-size: 24px;
+}
+h2 {
+    background-color: #4099BF;
+    font-size: 32px;
+}
+h1 {
+    font-size: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p {
+    text-align: justify;
+}
+pre {
+    background-color: white;
+    font-size: 16px;
+    font-weight: bold;
+  }
+blockquote {
+    font-style: oblique;
+}
+address {
+    text-align: right;
+    font-style: normal;
+}
